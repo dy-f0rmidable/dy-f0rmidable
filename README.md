@@ -1,8 +1,11 @@
-- 👋 Wassup, I’m @dy-f0rmidable  a.k.a  Dy
-- 👀 I’m interested in books, keyboards and computer stuffs
-- 🌱 I’m currently learning Embbeded System and trying to improve my coding skill
+- 👋 Greeting, I’m Nguyen Dang Duy from VietNam 🇻🇳.
+- 👀 I’m interested in coding, coffee, books, FPS games, keyboards and technology stuffs.
+- 🌱 I’m currently learning Mechatronics major. 
+- 🚀 I'm also trying to increase my knowledge about Computer Science and improve my coding skill as well.
+- 🤝 I look forward to cooperating with you in Embbeded system and IOT System projects.
+- 👾 I also have a small knowledge about Artificial Intelligence and Machine Vision so feel free if you want to do projects related to them with me.
 - 📫 My email: duygaomen@gmail.com
-- ⚡ Fun fact: nothin rn 
+- ⚡ Fun fact: I drawing and playing guiter somtimes 
 
 <!---
 dy-f0rmidable/dy-f0rmidable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
