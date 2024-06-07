@@ -5,7 +5,7 @@
 - 🤝 I look forward to cooperating with you in Embbeded system and IOT System projects.
 - 👾 I also have a small knowledge about Artificial Intelligence and Machine Vision so feel free if you want to do projects related to them with me.
 - 📫 My email: duygaomen@gmail.com
-- ⚡ Fun fact: I drawing and playing guitar sometimes. 
+- ⚡ Fun fact: I draw and play guitar sometimes. 
 
 <!---
 dy-f0rmidable/dy-f0rmidable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
