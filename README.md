@@ -1,5 +1,5 @@
 - 👋 Greeting, I’m Nguyen Dang Duy from VietNam.
-- 👀 I’m interested in coding, coffee, books, FPS games, keyboards and technology stuffs.
+- 👀 I’m interested in coding, coffee, keyboards and technology stuffs.
 - 🌱 I’m currently learning Mechatronics major. 
 - 🚀 I'm also trying to increase my knowledge about Computer Science and improve my coding skill as well.
 - 🤝 I look forward to cooperating with you in Embbeded system and IOT System projects.
