@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Mechatronics major. 
 - 🚀 I'm also trying to increase my knowledge about Computer Science and improve my coding skill as well.
 - 🤝 I look forward to cooperating with you in Embbeded system and IOT System projects.
-- 👾 I also have a small knowledge about Artificial Intelligence and Machine Vision so feel free if you want to do projects related to them with me.
+- 👾 I also have a small knowledge about ML, AI and Machine Vision so feel free if you want to do projects related to them with me.
 - 📫 My email: nguyenduyworkplace@gmail.com
 
 <!---
