@@ -1,5 +1,7 @@
 Hi. I'm Dy
+
 Graduated in Mechatronic Engineering major
+
 Currently working as Software Engineer in Renesas Semiconductor
 
 I build some personal projects in my free-time.
