@@ -1,10 +1,10 @@
-- 👋 Greeting, I’m Nguyen Dang Duy from VietNam.
-- 👀 I’m interested in coding, coffee, keyboards and technology stuffs.
-- 🌱 I’m currently learning Mechatronics major. 
-- 🚀 I'm also trying to increase my knowledge about Computer Science and improve my coding skill as well.
-- 🤝 I look forward to cooperating with you in Embbeded system and IOT System projects.
-- 👾 I also have a small knowledge about ML, AI and Machine Vision so feel free if you want to do projects related to them with me.
-- 📫 My email: nguyenduyworkplace@gmail.com
+Hi. I'm Dy
+Graduated in Mechatronic Engineering major
+Currently working as Software Engineer in Renesas Semiconductor
+
+I build some personal projects in my free-time.
+
+Feel free to contact me for work: nguyenduyworkplace@gmail.com
 
 <!---
 dy-f0rmidable/dy-f0rmidable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
